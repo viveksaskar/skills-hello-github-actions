@@ -4,3 +4,4 @@ on:
     types: [opened]
   permission: 
     pull-requests: write
+ 
